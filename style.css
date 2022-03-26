@@ -304,8 +304,8 @@ p {
 }
 
 .services .cards .card {
-  max-height: 500px;
-  height: 450px;
+  max-height: 400px;
+  height: 350px;
   overflow: auto;
   width: 30%;
   text-align: center;
