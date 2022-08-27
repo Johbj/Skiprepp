@@ -175,9 +175,8 @@ p {
   margin-right: 25px;
 }
 
-/*Hero*/
+
 .background {
-  /* display: flex; */
   min-height: 100px;
   height: 500px;
   background-image: url("Logo.png");
@@ -188,6 +187,7 @@ p {
 
 .hero {
   /* display: flex; */
+  display: flex;
   min-height: 300px;
   height: 800px;
   background-image: url("Logo.png");
