@@ -176,6 +176,15 @@ p {
 }
 
 /*Hero*/
+.background {
+  /* display: flex; */
+  min-height: 100px;
+  height: 500px;
+  background-image: url("Logo.png");
+  background-size: contain;
+  background-repeat: repeat;
+  background-position: top;
+  background-color: rgb(28, 50, 71);
 
 .hero {
   /* display: flex; */
