@@ -655,7 +655,7 @@ textarea {
 @media screen and (max-width: 650px) {
 .background {
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
 }
 
