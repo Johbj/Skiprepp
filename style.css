@@ -666,6 +666,11 @@ textarea {
   body {
     overflow-x: none;
   }
+  
+  .background {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
 
   .nav-container {
     width: 90% !important;
