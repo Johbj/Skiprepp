@@ -368,6 +368,11 @@ p {
   color: var(--title-span-color);
 }
 
+/*button*/
+.button{
+justify-content: center;
+}
+
 /*Careers*/
 .careers {
   padding-top: 50px;
