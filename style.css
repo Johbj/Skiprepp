@@ -403,6 +403,18 @@ justify-content: center;
   justify-content: space-between;
 }
 
+/*Button*/
+
+.Button{
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+
 /*Contact*/
 
 .contact {
