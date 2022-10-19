@@ -434,7 +434,7 @@ justify-content: center;
 .contact .short-contact {
   display: flex;
   flex-direction: column;
-  align-items: left;
+  align-items: center;
   min-height: 400px;
 }
 
