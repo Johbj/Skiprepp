@@ -404,7 +404,7 @@ p {
 .Button{
   display: flex;
   justify-content: center;
-  padding: 5px;
+  padding: 2px;
   flex-direction: column;
   align-items: center;
   width: 100%;
@@ -417,7 +417,7 @@ p {
   min-height: ;
   display: flex;
   justify-content: center;
-  padding: 10px;
+  margin: 5px;
 }
 
 .contact .form .container {
