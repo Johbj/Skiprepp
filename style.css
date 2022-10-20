@@ -323,7 +323,7 @@ p {
 /*Services*/
 .services {
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 25px;
 }
 
 .services.container,
@@ -404,7 +404,7 @@ p {
 .Button{
   display: flex;
   justify-content: center;
-  padding: 2px;
+  padding: 0px;
   flex-direction: column;
   align-items: center;
   width: 100%;
