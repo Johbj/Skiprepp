@@ -418,6 +418,7 @@ p {
   display: flex;
   justify-content: center;
   margin: 0px;
+  align-items: center;
 }
 
 .contact .form .container {
