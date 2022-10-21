@@ -440,13 +440,22 @@ p {
   width: 80%;
 }*/
 
-.contact .short-contact {
+.contact .adresse {
   display: flex;
-  flex-direction: column;
+  
   align-items: center;
-  margin: 0px;
+  margin-left: 50%;
+  margin-right: 25%
   min-height: ;
 }
+
+.contact .adresse {
+  display: flex;
+  
+  align-items: center;
+  margin-left: 25%;
+  margin-right: 50%
+  min-height: ;
 
 .contact h2 {
   font-size: var(--font-3x-large);
