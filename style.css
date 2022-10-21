@@ -419,7 +419,7 @@ p {
   flex-direction:row;
   justify-content: center;
   margin: 0px;
-  align-items: stretch;
+  align-items: center;
 }
 
 /*.contact .form .container {
