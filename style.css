@@ -418,7 +418,7 @@ p {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
-  margin: 0px;
+  justify-content: center;
   align-items: center;
   width: 80%;
 }
