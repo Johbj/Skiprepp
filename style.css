@@ -421,11 +421,11 @@ p {
   align-items: center;
 }
 
-.contact .form .container {
+/*.contact .form .container {
   display: flex;
   justify-content: center;
   width: 100%;
-}
+}*/
 
 .contact span {
   color: var(--title-span-color);
@@ -436,15 +436,15 @@ p {
   font-weight: bolder;
 }
 
-.contact .form .container form {
+/*.contact .form .container form {
   width: 80%;
-}
+}*/
 
 .contact .short-contact {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 5px;
+  margin: 0px;
   min-height: ;
 }
 
@@ -453,7 +453,7 @@ p {
   width: max-content;
 }
 
-.contact .form input[type="text"],
+/*.contact .form input[type="text"],
 select,
 textarea {
   width: 100%;
@@ -477,7 +477,7 @@ textarea {
 
 .contact .form input[type="submit"]:hover {
   background-color: #45a049;
-}
+}*/
 
 /*FOOTER*/
 #footer p span {
