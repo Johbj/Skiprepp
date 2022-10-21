@@ -419,8 +419,8 @@ p {
   flex-direction: row;
   justify-content: space-evenly;
   justify-content: center;
-  align-items: center;
-  width: 80%;
+  
+  width: 85%;
 }
 
 /*.contact .form .container {
