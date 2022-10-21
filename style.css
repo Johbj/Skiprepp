@@ -416,8 +416,8 @@ p {
 .contact {
   min-height: ;
   display: flex;
-  flex-direction:row;
-  justify-content: center;
+  flex-direction: row;
+  justify-content: space-evenly;
   margin: 0px;
   align-items: center;
 }
@@ -443,20 +443,13 @@ p {
 
 .contact .adresse {
   
-  width: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 5px;
-  text-align: center;
+  
+  
 }
 
 .contact .kontakt {
-  width: 50%;
-  justify-content: center;
-  align-items: center;
-  gap: 5px;
-  text-align: center;
+  
+  
 }
 .contact h2 {
   font-size: var(--font-3x-large);
