@@ -420,6 +420,7 @@ p {
   justify-content: space-evenly;
   margin: 0px;
   align-items: center;
+  width: 80%;
 }
 
 /*.contact .form .container {
