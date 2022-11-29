@@ -263,8 +263,6 @@ p {
   display: flex;
   gap: 20px;
   padding: 50px 25px;
-  display: flex;
-  flex-wrap: wrap;
 }
 
 .about-us {
@@ -279,8 +277,6 @@ p {
   min-height: 400px;
   max-width: 50%;
 }
-
-.about .h2{max-width: 100%}
 
 .about .text-one h2 {
   font-size: var(--font-3x-large);
