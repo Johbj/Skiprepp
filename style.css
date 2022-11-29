@@ -263,6 +263,8 @@ p {
   display: flex;
   gap: 20px;
   padding: 50px 25px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .about-us {
