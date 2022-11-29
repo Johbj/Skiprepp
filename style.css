@@ -277,8 +277,10 @@ p {
   flex-direction: column;
   gap: 20px;
   min-height: 400px;
-  width: 50%;
+  max-width: 50%;
 }
+
+.about .h2{max-width: 100%}
 
 .about .text-one h2 {
   font-size: var(--font-3x-large);
