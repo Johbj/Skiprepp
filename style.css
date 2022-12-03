@@ -291,6 +291,22 @@ p {
   width: 100%;
 }
 
+.bio{
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.Background {
+  /* display: flex; */
+  min-height: 300px;
+  height: ;
+  background-image: url("meg.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top;
+}
 /*Numbers*/
 
 .numbers {
