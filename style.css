@@ -280,7 +280,7 @@ p {
 
 .about .text-one h2 {
   font-size: var(--font-3x-large);
-  width: max-content;
+  width: 100%;
 }
 
 .about .text-one p {
@@ -288,7 +288,7 @@ p {
 }
 
 .about .text-one a {
-  width: max-content;
+  width: 100%;
 }
 
 /*Numbers*/
