@@ -275,7 +275,7 @@ p {
   flex-direction: column;
   gap: 20px;
   min-height: 400px;
-  max-width: 50%;
+  max-width: 100%;
 }
 
 .about .text-one h2 {
