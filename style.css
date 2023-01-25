@@ -284,6 +284,10 @@ p {
   width: 100%;
 }
 
+.about .text-two h3 {
+text-align: center;
+}
+
 .about .text-one p {
   font-size: var(--font-medium-large);
 }
