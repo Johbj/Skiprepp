@@ -259,7 +259,7 @@ p {
 /*About*/
 
 .about {
-  min-height: 400px;
+  min-height: 0px;
   display: flex;
   gap: 20px;
   padding: 50px 25px;
@@ -275,7 +275,7 @@ p {
   display: flex;
   flex-direction: column;
   gap: 20px;
-  min-height: 400px;
+  min-height: 0px;
   width: 100%;
 }
 
