@@ -536,7 +536,7 @@ textarea {
 
 @media screen and (max-width: 1150px) {
   .nav-container {
-    width: 80%;
+    width: 100%;
   }
 
   .container {
@@ -608,7 +608,7 @@ textarea {
 
 @media screen and (max-width: 768px) {
   .mobile-links-active {
-    width: 100%;
+    width: 90%;
   }
 .hero .text{
   flex: 100%;
