@@ -347,15 +347,6 @@ text-align: center;
   padding-bottom: 10px;
 }
 
-.services .post-title{
-  font-size: xx-large;
-  font-style: oblique;
-  font-weight: bold;
-  text-decoration: underline;
-  color: rgb(37, 109, 133);
-  text-decoration-color: orange;
-}
-
 .services.container,
 .careers.container {
   width: 80%;
