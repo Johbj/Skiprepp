@@ -181,7 +181,7 @@ p {
   /* display: flex; */
   min-height: 100px;
   height: 500px;
-  background-image: url("Logo.png");
+  background-image: url("FullLogo.png");
   background-size: contain;
   background-repeat: repeat;
   background-position: top;
