@@ -183,8 +183,8 @@ p {
   height: 500px;
   background-image: url("FullLogo.png");
   background-size: contain;
-  background-repeat: repeat;
-  background-position: top;
+  background-repeat: no-repeat;
+  background-position: bottom;
   background-color: rgb(28, 50, 71);
   /*-webkit-box-shadow: inset 0px 0px 300px 0px rgba(255, 255, 255, 0.9);
   -moz-box-shadow: inset 0px 0px 3000px 2000px rgba(255, 255, 255, 0.3);
