@@ -178,7 +178,7 @@ p {
 /*Hero*/
 
 .background {
-  /* display: flex; */
+   display: flex; 
   min-height: 100px;
   height: auto;
   background-image: url("FullLogo.png");
