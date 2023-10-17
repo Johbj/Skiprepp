@@ -180,8 +180,8 @@ p {
 .background {
    /* display: flex; */ 
   margin
-  min-height: 100px;
-  height: 600px;
+  min-height: 50px;
+  height: 450px;
   background-image: url("FullLogo.png");
   background-size: contain;
   background-repeat: repeat;
@@ -194,7 +194,7 @@ p {
 
 .hero{
   /* display: flex; */
-  margin-top: 50px;
+  /*margin-top: 50px;*/
   display: flex;
   min-height: 100px;
   height: 420px;
