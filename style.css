@@ -179,7 +179,7 @@ p {
 
 .background {
    /* display: flex; */ 
-  margin
+  margin-top:50px;
   min-height: 50px;
   height: 450px;
   background-image: url("FullLogo.png");
