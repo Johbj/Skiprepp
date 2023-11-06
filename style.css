@@ -260,6 +260,11 @@ p {
 
 /*About*/
 
+.rabatt{
+  color: rgb(245, 171, 71);
+  tekst-align: center;
+}
+
 .about {
   min-height: 0px;
   display: flex;
